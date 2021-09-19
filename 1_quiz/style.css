@@ -1,0 +1,14 @@
+body {
+  margin-left: 50px;
+}
+#question1,
+#question2 {
+  display: none;
+}
+canvas {
+  display: none;
+}
+.correct {
+  background-color: #24399f;
+  color: white;
+}
